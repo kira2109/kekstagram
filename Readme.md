@@ -13,5 +13,5 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Базовый JavaScript](https://htmlacademy.ru/intensive/javascript)» от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.org/htmlacademy-javascript/211751-kekstagram.svg?branch=master
-[travis-url]: https://travis-ci.org/htmlacademy-javascript/211751-kekstagram
+[travis-image]: https://travis-ci.org/sydd2005/kekstagram.svg?branch=master
+[travis-url]: https://travis-ci.org/sydd2005/kekstagram
